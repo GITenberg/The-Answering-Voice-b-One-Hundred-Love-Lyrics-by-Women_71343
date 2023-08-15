@@ -11,7 +11,12 @@ contributor:
     gutenberg_agent_id: '223'
     url: http://www.gutenberg.org/2009/agents/223
     wikipedia: https://en.wikipedia.org/wiki/Sara_Teasdale
+covers:
+- cover_type: archival
+  image_path: 71343-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71343#The-Answering-Voice-b-One-Hundred-Love-Lyrics-by-Women
 gutenberg_issued: '2023-08-04'
 identifiers:
   gutenberg: '71343'
